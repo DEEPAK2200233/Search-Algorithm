@@ -17,7 +17,7 @@ To write a program to perform linear search and binary search using python progr
 5.	Else, compare x with the middle element of the elements on the left side of mid. This is done by setting high to high = mid - 1.
 6.	Repeat steps 2 to 5 until low meets high
 ## Program:
-i)	#Use a linear search method to match the item in a list.
+i)	# Use a linear search method to match the item in a list.
 ```
 ''' 
 Program for linear search method to match the item in a list
@@ -66,7 +66,7 @@ if result==-1:
 else:
     print("Element found at index: ",result)
 ```
-iii)	# Find the element in a list using Binary Search (recursive Method).
+iii) # Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
@@ -94,11 +94,11 @@ else:
     print("Element found at index: ",result)
 ```
 ## Sample Input and Output
-i)	#Use a linear search method to match the item in a list.
+i)	# Use a linear search method to match the item in a list.
 ![WhatsApp Image 2023-11-02 at 15 33 16_4b5c55b5](https://github.com/DEEPAK2200233/Search-Algorithm/assets/118707676/0c2f320d-c1dc-47c7-a8c0-91d77c76c0cf)
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ![WhatsApp Image 2023-11-02 at 15 34 24_440909f8](https://github.com/DEEPAK2200233/Search-Algorithm/assets/118707676/daa929eb-415c-4c92-b930-061e8d7962f4)
-iii)	# Find the element in a list using Binary Search (recursive Method).
+iii) # Find the element in a list using Binary Search (recursive Method).
 ![image](https://github.com/DEEPAK2200233/Search-Algorithm/assets/118707676/6b9d4004-d57e-447a-86e4-65bd20f71692)
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
